@@ -88,3 +88,18 @@ body{
     padding-top: 505px;
     
 }
+
+/* Rectangle section starts from here */
+.rectangle{
+    width: 1140px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 200px;
+}
+.rectangle-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 85px;
+}
