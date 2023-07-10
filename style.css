@@ -1,0 +1,51 @@
+/* overall design */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+}
+.btn-primary{
+    color: white;
+    border-radius: 5px;
+    background: #E55473;
+    padding: 8px 16px;
+    border: none;
+}
+/* Banner design starts from here */
+
+.banner{
+    background: rgba(229, 84, 115, 0.10);
+
+}
+.banner-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0px 0px 100px;
+    gap:100px
+}
+.banner-img{
+    width: 450px;
+    padding-right: 100px;
+    padding-top: 40px;
+}
+.banner-description-title{
+    font-size: 40px;
+    font-style: bold;
+}
+.banner-description-content{
+    text-align: justify;
+}
+
+/* Our Featured Flowers design section starts from here  */
+
+.featured-flowers{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.featured-flowers-title{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
