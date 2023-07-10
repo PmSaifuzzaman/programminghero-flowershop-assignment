@@ -44,8 +44,47 @@ body{
     max-width: 1140px;
     margin: 0 auto;
 }
+.featured-flowers-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+}
 .featured-flowers-title{
     text-align: center;
     margin-top: 100px;
     margin-bottom: 100px;
+}
+.featured-flowers-box1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 380px;
+    height: 450px;
+    background-image: url('./images/pngwing\ 6.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.featured-flowers-box2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 380px;
+    height: 450px;
+    background-image: url('./images/pngwing\ 5.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.featured-flowers-box3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 380px;
+    height: 450px;
+    background-image: url('./images/pngwing\ 7.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.featured-flowers-box1-caption{
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 505px;
+    
 }
