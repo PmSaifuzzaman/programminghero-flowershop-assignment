@@ -126,3 +126,27 @@ body{
     color: rgba(39, 39, 39, 0.60);
     
 }
+/* Social media section starts from here */
+
+.social-media{
+    max-width: 1140px;
+    margin: 100px auto;
+    
+}
+.socialmedia-title{
+    text-align: center;
+}
+.socialmedia-title p{
+    color: rgba(39, 39, 39, 0.60);
+}
+.social-media-img{
+    max-width: 1140px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    
+}
+.social-media-img1{
+    height: 290px;
+    width: 240px;
+}
