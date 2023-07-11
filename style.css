@@ -36,6 +36,7 @@ body{
 }
 .banner-description-content{
     text-align: justify;
+    color: rgba(39, 39, 39, 0.60);
 }
 
 /* Our Featured Flowers design section starts from here  */
@@ -105,4 +106,23 @@ body{
 }
 .rectangle-content1{
     text-align: center;
+}
+
+/* Hot deal section design starts from here */
+
+.hotdeal-container{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 150px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 50px 240px 50px 240px;
+}
+.hotdeal-description{
+    text-align: center;
+}
+.hotdeal-description-content{
+    color: rgba(39, 39, 39, 0.60);
+    
 }
