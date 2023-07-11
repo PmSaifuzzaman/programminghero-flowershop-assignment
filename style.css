@@ -150,3 +150,31 @@ body{
     height: 290px;
     width: 240px;
 }
+
+/* Get deal section start from here */
+
+.get-deal{
+    max-width: 1140px;
+    margin: auto;
+    
+}
+
+.get-deal-container{
+    background-image: url("./images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    height: 450px;
+    margin: 0px auto;
+    text-align: center;
+    padding-top: 50px;
+
+    
+}
+.get-deal-container input{
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+.get-deal-container p{
+    color: rgba(39, 39, 39, 0.60);
+}
