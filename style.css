@@ -178,3 +178,11 @@ body{
 .get-deal-container p{
     color: rgba(39, 39, 39, 0.60);
 }
+/* Footer section design */
+footer{
+    height: 300px;
+    background: #111010;
+    color: #ffff;
+    text-align: center;
+    padding-top: 50px;
+}
